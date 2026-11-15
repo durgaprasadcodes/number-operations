@@ -4,7 +4,7 @@ A modern and interactive Number Operations Calculator built using **HTML, CSS, a
 
 ## 🌐 Live Demo
 
-🔗 [**Live Demo**](https://durgaprasadcodes.github.io/Number-Operations/)
+🔗 [**Live Demo**](https://durgaprasadcodes.github.io/number-operations/)
 
 ---
 
